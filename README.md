@@ -59,6 +59,11 @@ Furthermore, the majority of departing employees suffered from a combination of 
 2️⃣ The Commute Barrier:
 The stabilization of the average commute distance at 10.63 KM for departing employees highlights a critical geographic threshold. Exceeding this boundary accelerates turnover, signaling an urgent need for flexible corporate solutions, such as online/remote work models.
 
+
+3️⃣ Early Attrition:
+Turnover is highly concentrated within the first 24 months of tenure, severely impacting Laboratory Technicians (62 resignations) and Sales Executives (57 resignations) due to high initial stress, meaning the company rapidly loses its investment in training new hires.# IBM_HR_Analytics_Dashboard
+
+
 🛠️ The comprehensive project documentation will be published soon on my GitHub repository!
 
 I'd love to hear your thoughts and insights in the comments below! 👇
@@ -67,5 +72,3 @@ Presented by: Ashwag Alhejaili 👩‍💻✨
 
 #PowerBI #DataAnalytics #HRAnalytics #BusinessIntelligence #GitHub #DataVisualization #DashboardDesign
 
-3️⃣ Early Attrition:
-Turnover is highly concentrated within the first 24 months of tenure, severely impacting Laboratory Technicians (62 resignations) and Sales Executives (57 resignations) due to high initial stress, meaning the company rapidly loses its investment in training new hires.# IBM_HR_Analytics_Dashboard
