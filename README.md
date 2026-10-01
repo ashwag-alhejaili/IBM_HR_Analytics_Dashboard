@@ -1,4 +1,4 @@
-<img width="2360" height="1437" alt="133223" src="[https://github.com/user-attachments/assets/9ab31119-1bf7-4272-bbfa-8d9bc529363d](https://github.com/ashwag-alhejaili/ashwag-portfolio/blob/main/assets/hr-cover.png)" />
+<img width="2360" height="1437" alt="133223" src="https://github.com/ashwag-alhejaili/ashwag-portfolio/blob/main/assets/hr-cover.png" />
 
 
 Do HR metrics just show past numbers, or can they act as an early warning system to prevent employee burnout and costly turnover? 🤔📊
